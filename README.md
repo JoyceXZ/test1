@@ -25,7 +25,7 @@
 
 `if endif `
 
-    so heartbreaking! the notes has gone!
+    so heartbreaking! the note has gone!
 
 +
 -
